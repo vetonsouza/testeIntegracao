@@ -1,0 +1,8 @@
+A função runIntegrationTest(), presente no arquivo integrationTest.js, testa a integração entre a function1, function2 e function3.
+Para o nosso exercício, crie um novo arquivo JavaScript que deve se integrar ao que já temos funcionando no integrationTest.js, 
+recebendo e manipulando os dados gerados pela function3.
+Lembre-se do comando presente na nossa última aula, usado para importar as funções de outro arquivo JS:
+document.write('<script src="alvo.js"></script>');
+Caso não se lembre como ele foi usado para integrar dois arquivos JS, veja o conteúdo presente no repositório do professor:
+https://github.com/Kobaldo/TesteFuncional_JS/blob/main/testes.js
+Bom trabalho!!
